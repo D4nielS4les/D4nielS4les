@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D4nielS4les
 - 👀 I’m interested in ...  Python e JavaScript
-- 🌱 I’m currently learning ... Python      
+- 🌱 I’m currently learning ... Python / Vue.js / Nuxt / Adonis     
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  dsr.daniel.sales@gmail.com // 85 988577274
 
