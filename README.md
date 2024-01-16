@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mim
 ### Minha Jornada na Programação:
-Olá, pessoal! Meu nome é Daniel, tenho 43 anos e resolvi embarcar em uma emocionante jornada de transição de carreira para o mundo da programação. Quero compartilhar com vocês a minha história e como descobri a paixão pela codificação.
+Olá, pessoal! Meu nome é Daniel, tenho 43 anos e resolvi embarcar em uma emocionante jornada de transição de carreira para o mundo da programação. Quero compartilhar com vocês a minha história e como descobri a paixão pela programação.
 
 ### O Início da Minha Carreira
 Por muitos anos, eu trabalhei em uma carreira que, embora estável, não me trazia mais a satisfação que um dia já trouxe. Sempre fui fascinado pelo mundo da tecnologia e, ao longo do tempo, percebi que era hora de seguir minha paixão.
